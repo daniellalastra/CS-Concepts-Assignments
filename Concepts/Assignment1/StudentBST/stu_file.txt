@@ -1,0 +1,4 @@
+John_Doe 123456789 CS 1.3.2000 3.4 3
+Bubba_Dawg 666666666 FAST_FOOD 4.1.1874 0.1 Greasy_Fries Bill_Clinton
+Sally_Smith 454545123 CE 7.4.1995 4.0 4
+Tony_Jerk 000000000 Underwater_Basket_Weaving 0.4 -2.3 77

@@ -1,0 +1,2 @@
+U,John_Doe,123456789,01/15/2000,CS,1.5,Freshman
+G,Jane_Smith,987654321,03/22/1998,CE,2.8,Thesis_Title,Dr_Advisor

@@ -1,0 +1,4 @@
+U,John_Doe,123456789,1.3.2000,CS,3.4,3
+U,Bubba_Dawg,666666666,4.1.1874,FAST_FOOD,0.1,Greasy_Fries
+U,Sally_Smith,454545123,7.4.1995,CE,4.0,4
+U,Tony_Jerk,000000000,Underwater_Basket_Weaving,-2.3,77
